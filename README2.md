@@ -41,8 +41,8 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ![Screenshot](images/git_configuration.png)
 
-I Created a GitHub account for hosting your repositories.
-Link:
+I Created a GitHub account for hosting my repositories.
+Link: https://github.com/amanidy
 
 4. I Installed Necessary Programming Languages and Runtimes:
 Python:
