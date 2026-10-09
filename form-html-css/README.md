@@ -1,0 +1,1 @@
+During Environment set up I encontered challenge in configuring git with correct user credentials and setting up SSH keys for GitHub authentication can be tricky ,for beginners especially those using linux.Also understanding how branches work can also be a learning curve.
