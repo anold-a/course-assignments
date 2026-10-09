@@ -1,0 +1,75 @@
+[33m81acf95[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Add 'Week4-Python/' from commit '75d8f824a4d22066f4e3b59bc9705d6dcc8026de'
+[33m39eaf0a[m Add 'week5-dart-assignment/' from commit '9bbe3b3bd112d92836bf45fe99ce468d0871eae5'
+[33m6326d72[m Add 'python-week3-assignment/' from commit 'f4cd915d9571beb1878a32fe38cb03eac648a2d8'
+[33m5d441f0[m Add 'python-week2-assignment/' from commit 'b486d39d5d2eea9421c8a72cd66ac80316a9a5e4'
+[33mcada6b4[m Add 'python-week1-assignment/' from commit '57ef155a291250b70992c12c207ab7a6d7a4a6b6'
+[33m21e7691[m Add 'Week-5-hands-On/' from commit '978a962a07a88dc6612d35936761de82752b92b0'
+[33mf254f70[m Add 'se-assignment-3-introduction-to-prompt-engineering-amanidy/' from commit '5674abea5d5e845280a2944e9cef72cc4dc15f81'
+[33m7fafc3a[m Add 'se-assignment-7-software-project-management-amanidy/' from commit '407f8ba2db3fab385cd2c70eae5398b55eec17b3'
+[33m2e5aa10[m Add 'se-assignment-8-pitching-a-software-project-amanidy/' from commit 'e7f79447f3969d688123a36bf9777589bee59971'
+[33mffa125b[m Add 'se-assignment-6-introduction-to-python-amanidy/' from commit '0d84adcc1adf5518054d39f2f10a3d3d0ed3a188'
+[33m9a575c9[m Add 'se-assignment-4-github-and-visual-studio-amanidy/' from commit '7a31900eac28829eb2f0f763b78b904fb26631b3'
+[33m7a5d209[m Add 'PLPBasicGitAssignment/' from commit '4b0c9b259aab66d3e456e4e29d7e5b808ba33292'
+[33ma49a190[m Add 'se-assignment-5-amanidy/' from commit 'cbca83104d349d7eb8275cfe3373a0dbb887f4d3'
+[33m73a2e43[m Add 'se-assignment-2-introduction-to-software-engineering-amanidy/' from commit 'b5218ef15810ab083c2e529bcc715d4d2105b588'
+[33m5291d72[m Update root README before importing assignments
+[33mc8fb066[m Add 'se-assignment-1-setting-up-your-developer-environment-amanidy/' from commit 'dafa33c710ae9feab7542a67d84d8901a6fcecd7'
+[33mb06607a[m Initialize course assignments repository
+[33m75d8f82[m[33m ([m[1;31mWeek4-Python/main[m[33m)[m Added main file that answered the program Question
+[33m9bbe3b3[m[33m ([m[1;31mweek5-dart-assignment/main[m[33m)[m Answered the question
+[33mf4cd915[m[33m ([m[1;31mpython-week3-assignment/main[m[33m)[m  Answered the questions
+[33mb486d39[m[33m ([m[1;31mpython-week2-assignment/main[m[33m)[m Answered the questions
+[33m57ef155[m[33m ([m[1;31mpython-week1-assignment/main[m[33m)[m Answered the question
+[33m978a962[m[33m ([m[1;31mWeek-5-hands-On/main[m[33m)[m Delete api directory
+[33mbf49bc9[m Week 5
+[33m8450770[m README file
+[33m5e30b37[m README file
+[33m13b66de[m README file
+[33m889d5bb[m Add files via upload
+[33m60106aa[m Initial commit
+[33m5674abe[m[33m ([m[1;31mse-assignment-3-introduction-to-prompt-engineering-amanidy/main[m[33m)[m Answered the questions
+[33m7dc3017[m add online IDE url; add deadline
+[33m3efac22[m Setting up GitHub Classroom Feedback
+[33m3b3db77[m GitHub Classroom Feedback
+[33m4fe4a90[m Initial commit
+[33m407f8ba[m[33m ([m[1;31mse-assignment-7-software-project-management-amanidy/main[m[33m)[m Answered the questions
+[33m715732b[m add online IDE url; add deadline
+[33m4880a1d[m Setting up GitHub Classroom Feedback
+[33mb7db4f9[m GitHub Classroom Feedback
+[33m0f2572c[m Initial commit
+[33me7f7944[m[33m ([m[1;31mse-assignment-8-pitching-a-software-project-amanidy/main[m[33m)[m Answered questions
+[33mf4139d0[m add online IDE url; add deadline
+[33m6b9ada6[m Setting up GitHub Classroom Feedback
+[33m3014676[m GitHub Classroom Feedback
+[33m952b553[m Initial commit
+[33m0d84adc[m[33m ([m[1;31mse-assignment-6-introduction-to-python-amanidy/main[m[33m)[m Answered questions
+[33mf3ef33f[m add online IDE url; add deadline
+[33md683286[m Setting up GitHub Classroom Feedback
+[33mbe28238[m GitHub Classroom Feedback
+[33mc3b663c[m Initial commit
+[33m7a31900[m[33m ([m[1;31mse-assignment-4-github-and-visual-studio-amanidy/main[m[33m)[m Answered the questions.
+[33m021aa28[m add online IDE url; add deadline
+[33mee0c244[m Setting up GitHub Classroom Feedback
+[33m96f25b9[m GitHub Classroom Feedback
+[33me79fd65[m Initial commit
+[33m4b0c9b2[m[33m ([m[1;31mPLPBasicGitAssignment/main[m[33m)[m Added steps taken in README
+[33mcf4404d[m Added hello.txt with a greeting.
+[33m6ec6f73[m Initial commit
+[33mcbca831[m[33m ([m[1;31mse-assignment-5-amanidy/main[m[33m)[m Answered the questions.
+[33m3f87400[m add online IDE url; add deadline
+[33m70956d6[m Setting up GitHub Classroom Feedback
+[33m4cdeb83[m GitHub Classroom Feedback
+[33m687941b[m Initial commit
+[33mdafa33c[m[33m ([m[1;31mse-assignment-1-setting-up-your-developer-environment-amanidy/main[m[33m)[m Added my github link
+[33m47de76c[m Answered the questions on README2 file.
+[33m22ddb34[m add online IDE url; add deadline
+[33m3459572[m Setting up GitHub Classroom Feedback
+[33ma7d0ca2[m GitHub Classroom Feedback
+[33m15c7fbf[m Initial commit
+[33mb5218ef[m[33m ([m[1;31mse-assignment-2-introduction-to-software-engineering-amanidy/main[m[33m)[m Added referencess
+[33mc01edac[m Answered the questions as expected.
+[33m8bbb9a7[m Added a readme file
+[33maf3b43d[m add online IDE url; add deadline
+[33m670a8db[m Setting up GitHub Classroom Feedback
+[33mbdb87d2[m GitHub Classroom Feedback
+[33m6792a53[m Initial commit
